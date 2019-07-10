@@ -1,0 +1,10 @@
+{
+  "name": "socketTest",
+  "version": "1.0.0",
+  "dependencies": {
+    "nodejs-websocket": "^1.7.2",
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0",
+    "ws": "^7.1.0"
+  }
+}
